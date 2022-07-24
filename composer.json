@@ -1,0 +1,6 @@
+{
+  "require" : {
+    "prodigyview/prodigyview": "^0.9.8",
+    "get-stream/stream-chat": "^2.11"
+  }
+}
